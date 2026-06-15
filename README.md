@@ -2,7 +2,7 @@
 
 A conceptual mobile-based water quality detection prototype system engineered to simulate liquid spectrometry and chemical analysis. This application models Beer-Lambert law calculations, parsing relative liquid absorbance parameters and heavy metal contamination metrics using a smartphone camera and flashlight as a native optical light source.
 
-Live Demo Link: **[https://jagadeesh2k07.github.io/hydroscan-water-analyzer/](https://jagadeesh2k07.github.io/hydroscan-water-analyzer/)**
+Live Demo Link: **[https://hydroscan1.vercel.app/](https://hydroscan1.vercel.app/)**
 
 ---
 
@@ -30,27 +30,24 @@ hydroscan-water-analyzer/
 │   └── script.js       # Core logic, sensor processing algorithms, and calculations
 └── README.md           # Engineering documentation and configuration guide
 ```
-## 🛠️ Technology Stack & Tools
-Frontend Engine: Semantic HTML5, Modern CSS3 Layout Engine, Functional JavaScript (ES6+).
+## 🛠️ Technology Stack & ToolsFrontend Engine: 
+Semantic HTML5, Modern CSS3 Layout Engine, Functional JavaScript (ES6+).
 
 Development Environment: Local hosting server optimization verified on XAMPP environments.
 
 Version Control: Managed codebase iterations via Git tracking structures.
 
-Hosting Pipeline: Cloud-deployed through GitHub Pages automated workflows.
+Hosting Pipeline: Cloud-deployed through Vercel automated CI/CD workflows.
 ```
 ```
 ## ⚙️ Local Deployment & Execution
 To clone and run this project locally within a development environment:
 ```
 ```
-1. Clone the Repository:
-git clone https://github.com/jagadeesh2k07/hydroscan-water-analyzer.git
-2. Configure Local Environment:
-Move the project directory into your local XAMPP target folder: C:\xampp\htdocs\hydroscan-website.
-3. Launch the Engine:
-Open the XAMPP Control Panel, start the Apache module, and navigate to:
-http://localhost/hydroscan-website/
+## ⚙️ Local Deployment
+To run this project locally:
+1. Clone the repository: `git clone https://github.com/jagadeesh2k07/hydroscan-water-analyzer.git`
+2. Open `index.html` directly in your browser.
 ```
 ```
 Developed as an engineering portfolio asset and academic project presentation. All rights reserved © 2026.
