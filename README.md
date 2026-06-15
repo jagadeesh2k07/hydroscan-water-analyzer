@@ -38,16 +38,10 @@ Development Environment: Local hosting server optimization verified on XAMPP env
 Version Control: Managed codebase iterations via Git tracking structures.
 
 Hosting Pipeline: Cloud-deployed through Vercel automated CI/CD workflows.
-```
-```
-## ⚙️ Local Deployment & Execution
-To clone and run this project locally within a development environment:
-```
-```
 ## ⚙️ Local Deployment
+```
 To run this project locally:
 1. Clone the repository: `git clone https://github.com/jagadeesh2k07/hydroscan-water-analyzer.git`
 2. Open `index.html` directly in your browser.
-```
 ```
 Developed as an engineering portfolio asset and academic project presentation. All rights reserved © 2026.
